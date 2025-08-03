@@ -36,3 +36,6 @@ def day_of_week(day):
 
 day = day_from_dic(0)
 print("Day of week: ", day)
+
+another_day = day_of_week(4)
+print("Another of week: ", another_day)
